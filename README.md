@@ -2,7 +2,7 @@
 
 # Descrição
 
-Aplicatição qtem como objetivo consumir a localização atual do usuário e exiba na interface o endereço atual os dados climáticos da região e um botão para atualizar os dados.
+Aplicação que tem como objetivo consumir a localização atual do usuário e exiba na interface o endereço atual os dados climáticos da região e um botão para atualizar os dados.
 
 # Status
 
